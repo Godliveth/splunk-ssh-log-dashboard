@@ -4,7 +4,7 @@
 
 ### 📅 Project Title
 
-**Day 18 of #3DaysOfSOC – Splunk Dashboard for SSH Log Analysis**
+**Day 18 of #30DaysOfSOC – Splunk Dashboard for SSH Log Analysis**
 
 ---
 
