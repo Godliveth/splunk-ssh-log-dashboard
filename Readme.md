@@ -4,7 +4,7 @@
 
 ### 📅 Project Title
 
-**Day 18 of #30DaysOfSOC – Splunk Dashboard for SSH Log Analysis**
+**Day 19 of #30DaysOfSOC – Splunk Dashboard for SSH Log Analysis**
 
 ---
 
@@ -43,6 +43,12 @@ The goal was to identify SSH login patterns, analyze authentication outcomes, an
 3. Set **Source Type:** `json`.
 4. Create **Index:** `ssh_index`.
 5. Launch **Search & Reporting** to query data.
+
+
+## 📂 Dataset
+
+This project uses a synthetic SSH log file for SSH authentication analysis.  
+<sub>[📥 Download ssh_logs.txt](./ssh_logs.txt)</sub>
 
 ---
 
@@ -144,9 +150,8 @@ It was a great introduction to how SOC teams use **SIEM dashboards** to monitor 
 
 ## 📸 Screenshot
 
-*(Insert your Splunk Dashboard screenshot here once completed.)*
-
----
+You can view all dashboard images here:  
+<sub>[🔗 View Screenshot Folder](./screenshots)</sub>
 
 ## 🧩 Skills Demonstrated
 
